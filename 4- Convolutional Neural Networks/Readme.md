@@ -279,7 +279,7 @@ Here is the course summary as given on the course [link](https://www.coursera.or
 - Hyperparameters summary
   - f : filter size.
   - s : stride.
-  - Padding are rarely uses here.
+  - Padding are rarely used here.
   - Max or average pooling.
 
 ### Convolutional neural network example
